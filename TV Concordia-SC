@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ju7Ed2g.png" group-title="Canais | Locais",TV CONCÓRDIA HD Link 1
+#EXTINF:-1 tvg-name="A&E FHD" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" group-title="Canais | Locais",TV CONCÓRDIA HD Link 1
 https://tv03.zas.media:1936/concordia/concordia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ju7Ed2g.png" group-title="Canais | Locais",TV CONCÓRDIA HD Link 2
+#EXTINF:-1 tvg-name="A&E FHD" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" group-title="Canais | Locais",TV CONCÓRDIA HD Link 2
 https://tv03.zas.media:1936/concordia/concordia/chunklist_w676233248.m3u8
 
