@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV BRASIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: TV CONCÓRDIA HD LINK 1
+https://tv03.zas.media:1936/concordia/concordia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV BRASIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: TV CONCÓRDIA HD LINK 2
+https://tv03.zas.media:1936/concordia/concordia/chunklist_w676233248.m3u8
+
+
